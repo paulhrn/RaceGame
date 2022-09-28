@@ -4,6 +4,7 @@ This is a game where user is not to crash into obstacles.
 ## Features
 User's scores are being saved to a table.<br>
 User can change settings of car color, speed and type of obstacle.<br>
+<br>
 What is used:
 - UIKit
 - Firebase
@@ -30,5 +31,5 @@ What is used:
 <img src="./ScreenShots/menu.png" width=207,9 height=450>
 
 ## About
-Developer - Paul Hirshtein
+Developer - Paul Hirshtein<br>
 App icon - iconarchive
