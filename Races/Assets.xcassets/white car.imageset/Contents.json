@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1644510455_13-abrakadabra-fun-p-mashina-bez-fona-vid-sverkhu-25.png 20-03-17-62.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
