@@ -1,4 +1,4 @@
-# RaceGame
+# Race_Game
 This is a game where user is not to crash into obstacles.
 
 ## Features
